@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+We're small indie French Canadian🇨🇦 devs making a small idiotic Minecraft server network for our friends. Currently, there are no public repos as we're using this org for grouping them privately 😉
 
-**Here are some ideas to get you started:**
+In the meantime, feel free to join the MC server at `redserv.net` 🖱️ Also, you can [join our Discord Server](https://discord.gg/R4qwvAfrVS)!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Thanks!
+\- [@Mrredstone5230](https://github.com/Mrredstone5230)
+(those .md files are so annoying to make!!)
